@@ -7,6 +7,7 @@ public class Prueba1 {
 		System.out.println("Hola mundo");
     		System.out.println("hoal musndaso");
 		System.out.println("ola ke ase");
+		System.out.println("esto es una farsa, matame por favor");
 
 	}
 
